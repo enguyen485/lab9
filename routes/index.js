@@ -11,7 +11,6 @@ exports.view = function(req, res){
 		"date": "March 7",
 		"image": "debug.png"
 	};
-
   	labs.push(todaysLab);
   }
 
